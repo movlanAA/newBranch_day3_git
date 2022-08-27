@@ -4,5 +4,7 @@ public class Payment {
     //payment created
     //payment updated
 
-    //payment complated
+    //payment completed
+
+    //fixed and done
 }
